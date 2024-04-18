@@ -1,6 +1,6 @@
 # Bank Management System
 
-Este repositório contém um sistema de gerenciamento bancário desenvolvido em Python. O sistema permite aos usuários criar e gerenciar contas bancárias, realizar transações e calcular juros. O projeto segue os princípios SOLID e está organizado em uma estrutura modular para facilitar a manutenção e extensão do código.s
+Este repositório contém um sistema de gerenciamento bancário desenvolvido em Python. O sistema permite aos usuários criar e gerenciar contas bancárias, realizar transações e calcular juros. O projeto segue os princípios SOLID e está organizado em uma estrutura modular para facilitar a manutenção e extensão do código.
 
 # SOLID
 
